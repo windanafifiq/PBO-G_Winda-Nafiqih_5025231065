@@ -16,7 +16,7 @@ public class SupportSystem {
 
     public void start() {
         boolean finished = false;
-        System.out.println("Welcome to the DodgySoft Technical Support System.");
+        System.out.println("Welcome to the Windut Technical Support System.");
         System.out.println("Please tell us about your problem. Type 'bye' to exit our system.");
 
         while (!finished) {

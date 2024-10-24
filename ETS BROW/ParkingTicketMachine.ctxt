@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ParkingTicketMachine
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ parkingTicketMachine\ here.\r\n\r\n\ @author\ Winda\ Kelelahan\r\n\ @version\ 25/10/24\r\n
+comment1.params=ticketPrice
+comment1.target=ParkingTicketMachine(int)
+comment2.params=amount
+comment2.target=void\ insertMoney(int)
+comment3.params=
+comment3.target=void\ issueTicket()
+comment4.params=
+comment4.target=int\ getTimePurchased()
+comment5.params=
+comment5.target=int\ getBalance()
+numComments=6
