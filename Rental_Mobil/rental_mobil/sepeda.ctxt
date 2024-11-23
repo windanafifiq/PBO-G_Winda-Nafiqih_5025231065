@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=sepeda
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ sepeda\ here.\r\n\r\n\ @author\ winda\ naff\r\n\ @version\ 07\ Nov\ 2024\r\n
+comment1.params=merk\ model\ tahun_produksi\ jenis_sepeda
+comment1.target=sepeda(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ tampilkan()
+numComments=3

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=BusinessTicket
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BusinessTicket\ here.\r\n\r\n\ @author\ winda\ naff\r\n\ @version\ 14\ Nov\ 2024\r\n
+comment1.params=penumpang\ harga_dasar
+comment1.target=BusinessTicket(java.lang.String,\ double)
+comment2.params=
+comment2.target=double\ hitung_harga()
+numComments=3

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=rental_kendaraan
+comment1.params=kendaraan
+comment1.target=void\ tambah_kendaraan(kendaraan)
+comment2.params=nama_penyewa\ kendaraan
+comment2.target=void\ sewa_kendaraan(java.lang.String,\ kendaraan)
+comment3.params=
+comment3.target=void\ tampilkan_kendaraan()
+comment4.params=
+comment4.target=void\ tampilkan_penyewa()
+numComments=5
